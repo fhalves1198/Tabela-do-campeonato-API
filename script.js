@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
   
   let url = `https://api.api-futebol.com.br/v1/campeonatos/10/tabela`
   const headers = {
-  "Authorization": "Bearer live_90db77d828c516032d2bdaf7379bb3",
+  "Authorization": "Bearer live_xxxxxxxxxxxxxxxxxxxxxxxxxx",
   "Content-Type": "application/json"
 }
 
